@@ -3,40 +3,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 13.6 kB Used in GitHub's Storage 
- > 
-> 🏆 74 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                35 commits          ██████████░░░░░░░░░░░░░░░   39.77 % 
-🌃 Evening                51 commits          ██████████████░░░░░░░░░░░   57.95 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Wednesday                13 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Thursday                 13 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Saturday                 14 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Sunday                   20 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-705.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -79,7 +48,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EnzoGuang/EnzoGuang/master/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2023 10:01:20 UTC
+ Last Updated on 17/08/2023 10:12:01 UTC
 <!--END_SECTION:waka--><img align="middle" src="https://github-readme-stats.vercel.app/api?username=EnzoGuang">
 <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuang&layout=compact">
 
