@@ -1,4 +1,4 @@
-# Hi there 😉 
+# Hi there 😉 [![wakatime](https://wakatime.com/badge/user/b06f1799-d59e-4d93-be43-644d6ec7f0fc.svg)](https://wakatime.com/@b06f1799-d59e-4d93-be43-644d6ec7f0fc)
 ## Welcome to my repo, just for fun
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2047%20mins-blue)
