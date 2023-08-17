@@ -22,5 +22,5 @@ jobs:
           SHOW_SHORT_INFO: False
           DEBUG_LOGGING: False
           SHOW_TOTAL_CODE_TIME: False
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 2
           TIME_LINE: False
