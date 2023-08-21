@@ -1,5 +1,6 @@
 # Hi there 😉 [![wakatime](https://wakatime.com/badge/user/b06f1799-d59e-4d93-be43-644d6ec7f0fc.svg)](https://wakatime.com/@b06f1799-d59e-4d93-be43-644d6ec7f0fc)
 ## Welcome to my repo, just for fun
+![](https://github-readme-stats.vercel.app/api/wakatime?username=蓝海&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-160-blue)
 
