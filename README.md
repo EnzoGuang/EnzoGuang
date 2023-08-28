@@ -2,7 +2,7 @@
 ## Welcome to my repo, just for fun
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=蓝海&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-167-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-715.5%20thousand%20lines%20of%20code-blue)
 
@@ -12,21 +12,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Assembly                 8 hrs 2 mins        ███████████████████░░░░░░   76.27 % 
-Python                   2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-C                        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-ca65 assembler           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Assembly                 10 hrs 41 mins      ████████████████████░░░░░   79.26 % 
+Python                   2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+C                        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+ca65 assembler           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cs61c-fa20               10 hrs 32 mins      █████████████████████████   100.00 % 
+cs61c-fa20               13 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 31 mins      █████████████████████████   99.77 % 
-Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Linux                    13 hrs 27 mins      █████████████████████████   99.82 % 
+Mac                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 **I Mostly Code in Java** 
@@ -44,7 +44,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EnzoGuang/EnzoGuang/master/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2023 18:32:54 UTC
+ Last Updated on 28/08/2023 18:33:12 UTC
 <!--END_SECTION:waka--><img align="middle" src="https://github-readme-stats.vercel.app/api?username=EnzoGuang">
 <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuang&layout=compact">
 
