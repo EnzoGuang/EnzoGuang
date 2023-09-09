@@ -12,16 +12,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        9 mins              ██████████████░░░░░░░░░░░   54.74 % 
+Ezhil                    4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+GDScript                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+demo                     9 mins              ██████████████░░░░░░░░░░░   54.74 % 
+cs61c-sp23               7 mins              ███████████░░░░░░░░░░░░░░   42.19 % 
+cs61c-fa20               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 mins             ████████████████████████░   96.93 % 
+Linux                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 ```
 
 **I Mostly Code in Java** 
@@ -39,7 +46,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EnzoGuang/EnzoGuang/master/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2023 18:33:07 UTC
+ Last Updated on 09/09/2023 18:32:40 UTC
 <!--END_SECTION:waka--><img align="middle" src="https://github-readme-stats.vercel.app/api?username=EnzoGuang">
 <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuang&layout=compact">
 
