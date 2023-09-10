@@ -1,5 +1,12 @@
 # Hi there 😉 [![wakatime](https://wakatime.com/badge/user/b06f1799-d59e-4d93-be43-644d6ec7f0fc.svg)](https://wakatime.com/@b06f1799-d59e-4d93-be43-644d6ec7f0fc)
 ## Welcome to my repo, just for fun
+```
+Compiler errors can be frustrating, but really they only mean your program isn’t safely 
+doing what you want it to do yet; they do not mean that you’re not a good programmer!"
+    
+-- Chapter 3.2 of The Rust Programming Language 
+```
+
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=蓝海&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
