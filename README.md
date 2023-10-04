@@ -9,7 +9,7 @@ doing what you want it to do yet; they do not mean that you’re not a good prog
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=蓝海&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-721.5%20thousand%20lines%20of%20code-blue)
 
@@ -19,22 +19,22 @@ doing what you want it to do yet; they do not mean that you’re not a good prog
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 45 mins       ████████████████░░░░░░░░░   62.07 % 
-SQL                      1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   36.36 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-MySQL                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   2 hrs 45 mins       ██████████████████░░░░░░░   71.73 % 
+SQL                      1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+MySQL                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cs61a-su20               2 hrs 45 mins       ████████████████░░░░░░░░░   62.07 % 
-database_demo            1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   37.84 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+cs61a-su20               2 hrs 45 mins       ██████████████████░░░░░░░   71.73 % 
+database_demo            1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      2 hrs 45 mins       ████████████████░░░░░░░░░   62.16 % 
-Linux                    1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   37.84 % 
+Mac                      2 hrs 45 mins       ██████████████████░░░░░░░   71.83 % 
+Linux                    1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
 ```
 
 **I Mostly Code in Java** 
@@ -52,7 +52,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EnzoGuang/EnzoGuang/master/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2023 18:34:49 UTC
+ Last Updated on 04/10/2023 18:35:20 UTC
 <!--END_SECTION:waka--><img align="middle" src="https://github-readme-stats.vercel.app/api?username=EnzoGuang">
 <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuang&layout=compact">
 
