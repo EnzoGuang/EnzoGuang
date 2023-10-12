@@ -19,18 +19,19 @@ doing what you want it to do yet; they do not mean that you’re not a good prog
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 54 mins        ████████████████████████░   97.23 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Python                   3 hrs 7 mins        █████████████████████████   98.19 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cs61a-su20               1 hr 54 mins        ████████████████████████░   97.23 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+cs61a-su20               3 hrs 8 mins        █████████████████████████   98.29 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 💻 Operating System: 
-Mac                      1 hr 58 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -48,7 +49,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EnzoGuang/EnzoGuang/master/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2023 18:34:57 UTC
+ Last Updated on 12/10/2023 18:34:55 UTC
 <!--END_SECTION:waka--><img align="middle" src="https://github-readme-stats.vercel.app/api?username=EnzoGuang">
 <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuang&layout=compact">
 
