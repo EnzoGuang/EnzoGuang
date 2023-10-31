@@ -19,20 +19,16 @@ doing what you want it to do yet; they do not mean that you’re not a good prog
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     10 mins             ████████████░░░░░░░░░░░░░   49.36 % 
-Assembly                 7 mins              █████████░░░░░░░░░░░░░░░░   34.35 % 
-Python                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cs61c-fa20               17 mins             █████████████████████░░░░   83.81 % 
-demo                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -50,7 +46,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EnzoGuang/EnzoGuang/master/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2023 18:34:02 UTC
+ Last Updated on 31/10/2023 18:33:32 UTC
 <!--END_SECTION:waka--><img align="middle" src="https://github-readme-stats.vercel.app/api?username=EnzoGuang">
 <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuang&layout=compact">
 
