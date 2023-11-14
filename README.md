@@ -19,20 +19,16 @@ doing what you want it to do yet; they do not mean that you’re not a good prog
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SQL                      1 hr 24 mins        ███████████████████████░░   91.76 % 
-Makefile                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+SQL                      1 hr 24 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 24 mins        ███████████████████████░░   91.76 % 
-demo                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Unknown Project          1 hr 24 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -50,7 +46,7 @@ C                        1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EnzoGuang/EnzoGuang/master/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2023 18:34:03 UTC
+ Last Updated on 14/11/2023 18:32:55 UTC
 <!--END_SECTION:waka--><img align="middle" src="https://github-readme-stats.vercel.app/api?username=EnzoGuang">
 <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuang&layout=compact">
 
